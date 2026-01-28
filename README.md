@@ -4,3 +4,14 @@
 
 
 accurate-spider-bot-v0.0.3
+
+## How to clone the repo
+```bash
+git clone https://github.com/Iankulani/accurate-spider-bot-v0.0.3.git
+cd accurate-spider-bot-v0.0.3
+``` 
+
+## How to run
+```bash
+python3 accurate-spider-bot-v0.0.3.py
+```
